@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "node app.js",
-    "eslint": "eslint *.js **/*.js"
+    "eslint": "eslint *.js **/*.js --fix"
   },
   "keywords": [],
   "author": "",
